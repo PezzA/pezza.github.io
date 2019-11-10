@@ -1,6 +1,6 @@
 ## John Perrin
 
-Basic Portfolio site.
+Basic profile site.
 
 ### Go
 
