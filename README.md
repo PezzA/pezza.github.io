@@ -1,6 +1,4 @@
 
-### Go
-
 #### Advent Of Code
 This repo contains solutions to puzzles from the https://adventofcode.com/ programming challenge site.  ~250 of the 300 puzzles are completed from the 2015-2020 events.
 [Repo](https://github.com/PezzA/advent-of-code) 
